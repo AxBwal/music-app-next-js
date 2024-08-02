@@ -1,8 +1,7 @@
-
+import HerSection from "@/components/HerSection";
 
 export default function Home() {
-  return (
-  <>
-  </>
-  );
+  return <>
+  <HerSection/>
+  </>;
 }
